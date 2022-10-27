@@ -1,0 +1,3 @@
+[submodule "LibraryTgz"]
+	path = LibraryTgz
+	url = https://github.com/Trungisuit/LibraryTgz.git
